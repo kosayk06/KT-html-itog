@@ -479,7 +479,7 @@ main {
         line-height: 1.3;
     }
 }
-@media (max-width: 360px) {
+@media (max-width: 373px) {
     .profile__info-row {
         display: grid;
         grid-template-columns: 95px 1fr;
